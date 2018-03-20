@@ -1,0 +1,5 @@
+I am in Beijing
+Today is 2018.3.16
+I love Python.
+I am in shiyanlou
+It's a sunny dayToday is a sunny day
